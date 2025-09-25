@@ -1,11 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Write README.md to be uploaded to gitHub
-
-Of course. Here is a comprehensive `README.md` file suitable for your project's GitHub repository. It includes an overview, a robust setup guide with troubleshooting for the specific errors you faced, and instructions on how to run the pipeline.
-
-***
-
 # E-commerce Review Sentiment Analysis
 
 This project provides an end-to-end Machine Learning pipeline to perform sentiment analysis on user reviews for popular Indonesian e-commerce applications. It scrapes live data from the Google Play Store, preprocesses the text, and compares two models: a classical Logistic Regression baseline and a fine-tuned DistilBERT transformer.
