@@ -128,7 +128,7 @@ ecommerce-sentiment-analysis/
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/ecommerce-sentiment-analysis.git
+git clone https://github.com/felixsutanto/Indonesian-E-commerce-App-Sentiment-Analysis.git
 cd ecommerce-sentiment-analysis
 ```
 
@@ -716,38 +716,9 @@ print(f"Baseline F1: {baseline_f1:.4f}")
 print(f"Transformer F1: {transformer_f1:.4f}")
 ```
 
-## 🤝 Contributing
-
-### Development Setup
-```bash
-git clone https://github.com/yourusername/ecommerce-sentiment-analysis.git
-cd ecommerce-sentiment-analysis
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
-
-### Code Style
-- Follow PEP 8 guidelines
-- Use type hints for functions
-- Add docstrings to classes and methods
-- Maximum line length: 100 characters
-
-### Testing
-```bash
-python test_fixes.py
-python -m pytest tests/
-```
-
 ## 📝 License
 
 This project is licensed under the MIT License - see LICENSE file for details.
-
-## 📧 Contact & Support
-
-- **Issues:** GitHub Issues
-- **Discussions:** GitHub Discussions
-- **Email:** your-email@example.com
 
 ## 📚 References & Resources
 
@@ -760,15 +731,3 @@ This project is licensed under the MIT License - see LICENSE file for details.
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers/)
 - [Scikit-learn Documentation](https://scikit-learn.org/)
 - [NLTK Cookbook](https://www.nltk.org/howto/)
-
-### Similar Projects
-- [Sentiment Analysis with BERT](https://github.com/google-research/bert)
-- [Indonesian NLP Resources](https://github.com/cahya-wirawan/indonesian-nlp)
-
----
-
-**Last Updated:** January 2026  
-**Maintainer:** Your Name  
-**Status:** ✅ Active Development
-
-Made with ❤️ for sentiment analysis enthusiasts
