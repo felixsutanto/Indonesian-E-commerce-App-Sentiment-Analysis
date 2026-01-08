@@ -1,8 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Write README.md file for E-commerce Review Sentiment Analysis project to upload to GitHub
-
-```markdown
 # E-commerce Review Sentiment Analysis
 
 Transformer-based sentiment analysis for e-commerce app reviews (e.g., Tokopedia, Shopee), with a full pipeline for data validation, preprocessing, model training, evaluation, and logging.
